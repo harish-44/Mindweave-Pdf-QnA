@@ -3,5 +3,7 @@ This repository provides a tool to generate answers to questions from a PDF file
 Input:
 	PDF containing questions.
 	Optional reference textbook (PDF) for more accurate and context-aware answers.
+ 
 Output: PDF file containing answers to the input questions.
+
 Easy to configure and use.
